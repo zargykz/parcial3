@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "525240888312",
+    "project_id": "parcial3-77987",
+    "storage_bucket": "parcial3-77987.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525240888312:android:e7b44d8bf9450e1db4040d",
+        "android_client_info": {
+          "package_name": "com.example.parcial3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525240888312-j4vpc3gq7o3701742nm0fqq4vces43m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt_x9VVcAKwaMKZKFJHRDDBYDYvzGPWzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525240888312-j4vpc3gq7o3701742nm0fqq4vces43m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525240888312:android:3828fc5a2375345ab4040d",
+        "android_client_info": {
+          "package_name": "com.parcial3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525240888312-j4vpc3gq7o3701742nm0fqq4vces43m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt_x9VVcAKwaMKZKFJHRDDBYDYvzGPWzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525240888312-j4vpc3gq7o3701742nm0fqq4vces43m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
